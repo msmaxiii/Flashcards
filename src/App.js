@@ -5,7 +5,7 @@ import NavBar from './Components/NavBar';
 import Cardlist from './Components/Cardlist';
 import Home from './Pages/Home';
 import cards from './cards';
-import cardback from'./cardback';
+
 
 
 function App () {
@@ -15,11 +15,7 @@ function App () {
   //   e.preventDefault()
   // }
 
-  // function displayAll(e){
-  // e.preventDefault()
-  // for (let i=0; j<= cards.length; j++){
-  //   if cards[j].value>=searchCard.value
-  // };
+ 
 
 
   
