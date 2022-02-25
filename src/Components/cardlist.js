@@ -4,7 +4,8 @@ import Flashcard from "./Flashcard";
 function Cardlist(props) {
   return (
     <div className="card-grid">
-        <h2>Cardlist</h2>
+
+        <h2>Letters:</h2>
       {props.flashcard && props.flashcard.map((flashcard) => {
         return <Flashcard flashcard={flashcard} key={flashcard.id} />;
       })}

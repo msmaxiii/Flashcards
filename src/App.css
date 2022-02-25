@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    color:blue ;
+    display:flex;
+    align-items:center;
+}
+
+ .cards{
+     display:flex;
+     justify-content:center;
+     align-items:center; 
+     position:relative; 
+ }

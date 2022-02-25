@@ -1,0 +1,99 @@
+const cards =[{
+    'id': '01',
+    'letter': '&#913', 
+},
+{
+    'id':2,
+    'letter':'&#914',
+},     
+{
+    'id':3,
+    'letter':'',
+},      
+{
+    'id':4,
+    'letter':'',
+},      
+{
+    'id':5,
+    'letter':'',
+},      
+{
+    'id':6,
+    'letter':'',
+},     
+{
+    'id':7,
+    'letter':'',
+},      
+{
+    'id':8,
+    'letter':'',
+},      
+{
+    'id':9,
+    'letter':'',
+},      
+{
+    'id':10,
+    'letter':'',
+},      
+{
+    'id':11,
+    'letter':'',
+},      
+{
+    'id':12,
+    'letter':'',
+},      
+{
+    'id':13,
+    'letter':'',
+},      
+{
+    'id':14,
+    'letter':'',
+},      
+{
+    'id':15,
+    'letter':'',
+},      
+{
+    'id':16,
+    'letter':'',
+},      
+{
+    'id':17,
+    'letter':'',
+},      
+{
+    'id':18,
+    'letter':'',
+},      
+{
+    'id':19,
+    'letter':'',
+},      
+{
+    'id':20,
+    'letter':'',
+},      
+{
+    'id':21,
+    'letter':'',
+},      
+{
+    'id':22,
+    'letter':'',
+},      
+{
+    'id':23,
+    'letter':'',
+},      
+{
+    'id':24,
+    'letter':'',
+}      
+
+]
+export default cards;

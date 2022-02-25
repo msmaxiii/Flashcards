@@ -1,30 +1,26 @@
 
 import './App.css';
 import React, { useState } from 'react';
+// import NavBar from './Components/NavBar';
 import Cardlist from './Components/Cardlist';
+import Home from './Pages/Home';
+import cards from './cards';
 
 
 function App () {
-    
-  // const [Flashcards,setFlashcards]= useState(Flashcards)
+  const [cardsArray,setCardsArray]=useState(cards)
+  
   return (
 
     <div className="App">
        
       <h1> Greek Alphabet FlashCards</h1>
 
-    <Cardlist />
+    <Cardlist flashcard={cardsArray} />
 
     </div>
   );
 }
 
-// const FlashCards =[
-//   {
-    
-//     letter:"",
-//     answer:""
-//   }
-// ]
 
 export default App;

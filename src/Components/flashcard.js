@@ -6,7 +6,7 @@ function Flashcard ({flashcard}){
 
     return(
         <div onClick={() =>setFlip(!flip) }>
-            {flip ? flashcard.answer : flashcard.letter}
+            {flip ? flashcard.letter : flashcard.answer}
            
         </div>
     )
