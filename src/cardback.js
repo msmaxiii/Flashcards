@@ -1,144 +1,144 @@
 const cardback=[
     {
-        'id':B1,
+        'id':1,
         'answer':'Alpha',
         'phonetic':'(al-fah)'
 
     }, 
     {
-        'id':B2,
+        'id':2,
         'answer':'Beta',
         'phonetic':'(bay-tah)'
 
     },           
     {
-        'id':B3,
-        'answer':'Chi',
-        'phonetic':'(kie)'
-
-    },           
-    {
-        'id':B4,
-        'answer':'Delta',
-        'phonetic':'(del-ta)'
-
-    },           
-    {
-        'id':B5,
-        'answer':'Epsilon',
-        'phonetic':'(ep-si-lon)'
-
-    },           
-    {
-        'id':B6,
-        'answer':'Phi',
-        'phonetic':'(fie)'
-
-    },           
-    {
-        'id':B7,
+        'id':3,
         'answer':'Gamma',
         'phonetic':'(gam-ah)'
 
     },           
     {
-        'id':B8,
+        'id':4,
+        'answer':'Delta',
+        'phonetic':'(del-ta)'
+
+    },           
+    {
+        'id':5,
+        'answer':'Epsilon',
+        'phonetic':'(ep-si-lon)'
+
+    },           
+    {
+        'id':6,
+        'answer':'Zeta',
+        'phonetic':'(zay-tah)'
+
+    },           
+    {
+        'id':7,
         'answer':'Eta',
         'phonetic':'(ay-tah)'
 
+    },           
+    {
+        'id':8,
+        'answer':'Theta',
+        'phonetic':'(thay-tah)'
+
     },                     
     {
-        'id':B9,
+        'id':9,
         'answer':'Iota',
         'phonetic':')eye-o-tah)'
 
     },           
     {
-        'id':B10,
+        'id':10,
         'answer':'Kappa',
         'phonetic':'(cap-pah)'
 
     },           
     {
-        'id':B11,
+        'id':11,
         'answer':'Lambda',
         'phonetic':'(lamb-dah)'
 
     },           
     {
-        'id':B12,
+        'id':12,
         'answer':'Mu',
         'phonetic':'(mew)'
 
     },           
     {
-        'id':B13,
+        'id':13,
         'answer':'Nu',
         'phonetic':'(new)'
 
     },           
     {
-        'id':B14,
+        'id':14,
         'answer':'Xi',
         'phonetic':'(zz-eye)'
 
     },           
     {
-        'id':B15,
+        'id':15,
         'answer':'Omicron',
         'phonetic':'(om-e-cron)'
 
     },           
     {
-        'id':B16,
+        'id':16,
         'answer':'Pi',
         'phonetic':'(pie)'
 
     },           
     {
-        'id':B17,
+        'id':17,
         'answer':'Rho',
         'phonetic':'(roe)'
 
     },           
     {
-        'id':B18,
+        'id':18,
         'answer':'Sigma',
         'phonetic':'(sig-mah)'
 
     },           
     {
-        'id':B19,
+        'id':19,
         'answer':'Tau',
         'phonetic':'(taw)'
 
     },           
     {
-        'id':B20,
+        'id':20,
         'answer':'Upsilon',
         'phonetic':'(opp-si-lon)'
 
     },           
     {
-        'id':B21,
+        'id':21,
         'answer':'Phi',
         'phonetic':'(fie)'
 
     },           
     {
-        'id':B22,
+        'id':22,
         'answer':'Chi',
-        'phonetic':'(ch-eye)'
+        'phonetic':'(k-eye)'
 
     },           
     {
-        'id':B23,
+        'id':23,
         'answer':'Psi',
         'phonetic':'(sigh)'
 
     }, 
     {
-        'id':B24,
+        'id':24,
         'answer':'Omega',
         'phonetic':'(o-may-gah)'
 
