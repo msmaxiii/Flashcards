@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Host Site:
+https://app.netlify.com/sites/infallible-euler-f4c295/deploys/
+
+Add wireframe
+Users/learner/Documents/flashcards/src/img/wireframe.jpg
+
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -68,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+

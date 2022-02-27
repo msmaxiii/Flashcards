@@ -11,26 +11,18 @@ import cards from './cards';
 function App () {
   const [cardsArray,setCardsArray]=useState(cards)
 
-  // function handleSubmit(e){
-  //   e.preventDefault()
-  // }
-
- 
-
-
-  
   return (
 
   <div>
-       {/* <button onClick={this.handleSubmit}>Next letter</button> */}
+      
    
        <div className="App">
-       
-       {/* <h1> Greek Alphabet FlashCards</h1>   */}
-     <Home/>
+      
+      <Home/>
       <Cardlist flashcard={cardsArray} />
     
-  </div>
+      </div>
+      
   </div>
   )
 }
