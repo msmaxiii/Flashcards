@@ -30,11 +30,11 @@ body {
     font-size: larger;
     font-weight: bold;
     padding: 30px;
-    border: 2px dotted black;
+    border: 4px dotted black;
     border-radius: 2rem;
     margin: 2rem;
-    /* transition: 150 ms; */
-    /* transform: perspective(1000 px) rotateY(var(--rotate-y, 0));  */
+    transition: 150 ms;
+    transform: perspective(1000 px) rotateY(var(--rotate-y, 0)); 
   }
 
   .card.flip {
@@ -50,7 +50,7 @@ body {
   .cards,
   .cardback {
     flex: 1 1 150px;
-    height:fit-content;
+    height:40rem;
     width: 16rem;
     text-align: center;
     font-weight: bold;
