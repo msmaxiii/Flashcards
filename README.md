@@ -7,8 +7,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Host Site:
 https://app.netlify.com/sites/infallible-euler-f4c295/deploys/
 
-Add wireframe
+Add wireframe:
 Users/learner/Documents/flashcards/src/img/wireframe.jpg
+
+
+Upcoming Feaures:
+
+User will be able to favorite the cards already learned.
+The letters in the header can be clicked on to put out one card.
+Game will be timed to see how many you get right in 1:00.
+
+
+
+
 
 
 In the project directory, you can run:

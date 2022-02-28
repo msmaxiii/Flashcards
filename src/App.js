@@ -1,7 +1,7 @@
 
 import './App.css';
 import React, { useState } from 'react';
-// import NavBar from './Components/NavBar';
+import Footer from './Components/Footer';
 import Cardlist from './Components/Cardlist';
 import Home from './Pages/Home';
 import cards from './cards';
@@ -17,10 +17,9 @@ function App () {
       
    
        <div className="App">
-      
       <Home/>
       <Cardlist flashcard={cardsArray} />
-    
+      <Footer/>
       </div>
       
   </div>
