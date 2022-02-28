@@ -1,6 +1,6 @@
 
 body {
-    background-color: red;
+    background-color:rgb(66, 184, 174);
     align-content: center;
   }
  
@@ -36,6 +36,7 @@ body {
     /* transition: 150 ms; */
     /* transform: perspective(1000 px) rotateY(var(--rotate-y, 0));  */
   }
+
   .card.flip {
     --rotate-y: 180deg;
   }

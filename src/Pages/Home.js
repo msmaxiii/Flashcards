@@ -1,4 +1,4 @@
-import img from "../img/large.jpeg";
+import img from "../img/green.jpeg";
 const Home =()=>{
     return(
 <div>

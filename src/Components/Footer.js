@@ -15,7 +15,7 @@ const Footer =()=>{
 const container={
     display:'flex',
     justifyContent:"space-evenly",
-    backgroundColor:"#ff0000",
+   
     
 }
 export default Footer;
