@@ -11,7 +11,7 @@ Add wireframe:
 Users/learner/Documents/flashcards/src/img/wireframe.jpg
 
 
-Upcoming Feaures:
+Upcoming Features:
 
 -User will be able to favorite the cards already learned.
 -The letters in the header can be clicked on to put out one card.
