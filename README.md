@@ -18,7 +18,8 @@ Upcoming Features:
 -Game will be timed to see how many you get right in 1:00.
 
 
-
+User story
+Learning your Greek Alphabet is key to not embarass your faternity or sorority when meeting fellow greeks.
 
 
 
