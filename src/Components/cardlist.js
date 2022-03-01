@@ -1,6 +1,6 @@
 
 import React from "react";
-import Flashcard from "./flashcard";
+import Flashcard from "./Flashcard";
 
 function Cardlist({ flashcard }) {
   console.log(flashcard);
