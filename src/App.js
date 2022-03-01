@@ -2,7 +2,7 @@
 import './App.css';
 import React, { useState } from 'react';
 import Footer from './Components/Footer';
-import Cardlist from './Components/Cardlist';
+import Cardlist from './Components/cardlist';
 import Home from './Pages/Home';
 import cards from './cards';
 
