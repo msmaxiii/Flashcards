@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 Host Site:
-https://app.netlify.com/sites/infallible-euler-f4c295/deploys/
+https://infallible-euler-f4c295.netlify.app/
 
 Add wireframe:
 Users/learner/Documents/flashcards/src/img/wireframe.jpg
